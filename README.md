@@ -3,7 +3,7 @@
 
 Welcome! This is the [Catalyst cohort of Open Seeds](https://openlifesci.org/openseeds/ols-catalyst) (OLS-Catalyst) program repository. 
 This repository will be used for the issue tracker feature of GitHub. 
-All the projects going through OLS-8 will use one issue to keep track of their progress during the program (see [projects and participants](https://openlifesci.org/ols-7/projects-participants/)).
+All the projects going through OLS-Catalyst will use one issue to keep track of their progress during the program (see [projects and participants](https://openlifesci.org/ols-7/projects-participants/)).
 
 ## How to Work With Us
 
