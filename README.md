@@ -1,4 +1,4 @@
-# Open Seeds OLS-9
+# Open Seeds OLS-Catalyst
 
 
 Welcome! This is the [Catalyst cohort of Open Seeds](https://openlifesci.org/openseeds/ols-catalyst) (OLS-Catalyst) program repository. 
